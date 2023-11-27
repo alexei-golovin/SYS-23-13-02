@@ -27,6 +27,10 @@
 
 ### Ответ на задание 1
 
+![](https://github.com/alexei-golovin/SYS-23-13-02/blob/main/files/101.jpg)
+![](https://github.com/alexei-golovin/SYS-23-13-02/blob/main/files/102.jpg)
+![](https://github.com/alexei-golovin/SYS-23-13-02/blob/main/files/103.jpg)
+
 ---
 
 ### Задание 2
@@ -38,6 +42,12 @@
 *В качестве ответа пришлите снимки экрана с поэтапным выполнением задания.*
 
 ### Ответ на задание 2
+
+![](https://github.com/alexei-golovin/SYS-23-13-02/blob/main/files/201.jpg)
+![](https://github.com/alexei-golovin/SYS-23-13-02/blob/main/files/202.jpg)
+![](https://github.com/alexei-golovin/SYS-23-13-02/blob/main/files/203.jpg)
+![](https://github.com/alexei-golovin/SYS-23-13-02/blob/main/files/204.jpg)
+![](https://github.com/alexei-golovin/SYS-23-13-02/blob/main/files/205.jpg)
 
 ---
 
